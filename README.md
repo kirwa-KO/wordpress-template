@@ -1,2 +1,1 @@
-# wordpress-templlate
-# wordpress-templlate
+# wordpress-template
